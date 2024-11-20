@@ -1,0 +1,20 @@
+[답]
+연습문제1
+def facto(n):
+    # 이곳의 코드를 완성하시오.
+    output_value = 1
+    for i in range(1, n+1):
+        output_value = output_value * i
+    return output_value
+
+연습문제2
+def simple_inter(principal, sir, n):
+    sum = principal * (1 + sir * n) # 원금 더하기 이자
+    return sum
+
+연습문제3
+def compound_inter_loop(principal, cir, n):
+    sum = principal
+    for i in range(1, n + 1) :
+        sum = sum * (1 + cir) # 1년 후 원리금 : 전년 원리금 곱하기 이율
+    return sum
