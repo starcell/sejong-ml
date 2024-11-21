@@ -3,6 +3,13 @@
 # 세종대학교 경영대학원 머신러닝 프로그림 실습
 
 1. 파이썬 기초
+   1. 파이썬 프로그래밍 언어
+   2. 구글 코랩(google colab) 사용법
+   3. 파이썬 프로그래밍 기초  
+      * https://github.com/starcell/sejong-ml/blob/main/python4ml-1.ipynb
 2. 머신러닝을 이용한 보스톤 주택 데이터 분석
+   1. https://github.com/shridhar1504/Boston-House-Price-Prediction-Datascience-Project
+   2. https://wikidocs.net/49966
+   
 3. 딥러닝을 이용한 손글씨 숫자 분류
 
