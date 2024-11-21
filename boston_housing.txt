@@ -1,5 +1,7 @@
 https://lib.stat.cmu.edu/datasets/boston
 https://wikidocs.net/49966
+https://github.com/shridhar1504/Boston-House-Price-Prediction-Datascience-Project
+
 
 보스턴 주택 가격
 : 1978년에 발표된 데이터로 미국 보스턴 지역의 주택 가격에 영향을 미치는 요소들을 정리함
