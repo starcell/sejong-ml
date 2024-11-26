@@ -12,3 +12,7 @@
    1. 보스톤 주택 데이터셋
       * [보스톤 주택 가격 회귀 분석 코드](boston_housing.ipynb)
 3. 딥러닝을 이용한 손글씨 숫자 분류
+   1. MNIST 데이터 처리
+      * [MNIST 데이터 처리 코드](mnist_data_process.ipynb)
+   2. MNIST 데이터 딥러닝
+      * [MNIST 데이터 딥러닝 코드](mnist_dl.ipynb)
